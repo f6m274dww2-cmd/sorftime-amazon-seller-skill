@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Shots Main Image"
+  short_description: "Design compliant Amazon main and secondary images"
+  default_prompt: "Use $product-shots-main-image to plan the Amazon main and secondary image set."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Shots Detail Page"
+  short_description: "Design Amazon A+ modules with mobile-safe layouts"
+  default_prompt: "Use $product-shots-detail-page to plan the Amazon A+ module set."

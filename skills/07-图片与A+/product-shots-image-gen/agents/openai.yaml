@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Shots Image Gen"
+  short_description: "Render product-shots prompts through an image provider"
+  default_prompt: "Use $product-shots-image-gen to render the approved product-shots prompts."

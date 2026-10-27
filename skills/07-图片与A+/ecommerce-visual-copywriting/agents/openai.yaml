@@ -1,0 +1,4 @@
+interface:
+  display_name: "E-commerce Visual Copywriting"
+  short_description: "Plan conversion-led ecommerce imagery and A+ content"
+  default_prompt: "Use $ecommerce-visual-copywriting to turn this product information into a visual strategy, A+ storyboard and generation prompts."

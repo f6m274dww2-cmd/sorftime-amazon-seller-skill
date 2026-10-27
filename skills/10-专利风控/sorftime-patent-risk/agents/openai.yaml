@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sorftime Patent Risk"
+  short_description: "Screen design and utility patent risks before launch"
+  default_prompt: "Use $sorftime-patent-risk to screen this product for design and utility patent risks."

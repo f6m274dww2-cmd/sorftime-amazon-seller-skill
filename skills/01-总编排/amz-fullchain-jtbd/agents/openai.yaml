@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Fullchain JTBD"
+  short_description: "Run Amazon JTBD workflows from selection to monitoring"
+  default_prompt: "Use $amz-fullchain-jtbd to run this Amazon product opportunity through the full workflow."
